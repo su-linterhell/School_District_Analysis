@@ -50,4 +50,3 @@ Cleaning the data has improved the overall % passing scores, moving Thomas High 
 
 
 
-There is a statement summarizing four major changes to the school district analysis after reading and math scores have been replaced (5 pt).
