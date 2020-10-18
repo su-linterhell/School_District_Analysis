@@ -51,7 +51,10 @@ As shown by the Top 5 schools, the top performing schools were all Charter Schoo
 
 #### Bottom 5 Schools
 ![bottom5_schools](Resources/bottom5_schools.png)
-The top 5 bottom schools are all district schools. The budget for the top and bottom 5 school really varies, with a lot of the top 5 schools having a smaller budget than the bottom 5 schools. Existing budgets may not describe test scores. However, there could be a difference in how charter and district schools are ran which impacts test scores. 
+The top 5 bottom schools are all district schools. The budget for the top and bottom 5 school really varies, with a lot of the top 5 schools having a smaller budget than the bottom 5 schools. Existing budgets may not describe test scores. 
+
+## Conclusion
+The top performing schools are charter schools. The lowest performing schools are district schools. However, the size of the school itself could also have an impact on students testing scores. Looking at the top and bottom schools, the top schools have significantly less students. Some of the lowest performing schools have almost 4x more students than a top performing school. Again, the budget per school or per student doesn't seem to have as clear of trends with the impact on test scores. Another metric that would be useful to understand better what makes a school perform better on standard tests is the teacher to student ratio. This data is not provided in our current data subsets but could provide useful insights. Average students per classroom or average students per teacher would allow us to see if students generally test better when they have less students in their class, giving them more access to their teacher. 
 
 
 
