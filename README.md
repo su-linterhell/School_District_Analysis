@@ -27,11 +27,22 @@ With the data for 9th grade student's reading & math scores at Thomas High Schoo
 
 ### Key Differences After Cleaning our Data 
 
-Thomas High School Metrics Before Cleaning
+#### Cleaned Student_Data_df
+![student_data_nan](Resources/student_data_nan.png)
+
+Since 9th grade students at Thomas High School had academic dishonesty for their reading & math test scores, their values were replaced with NaN. This establishes that all data for these students are undefined. Only their reading & math scores should reflect this, and the rest of their data is still available to be used. 
+
+
+
+#### Thomas High School Metrics Before Cleaning
 ![Thomas_Data_before](Resources/Thomas_Data_before.png)
 
-Thomas High SChool Metrics After Cleaning 
+#### Thomas High SChool Metrics After Cleaning 
 ![updated_thomas_metrics](Resources/updated_thomas_metrics.png)
+
+After cleaning the Thomas High School data we see a big difference between the % passing scores. This is because we are running these analysis on a smaller number of students after excluding the 9th grade students from our analysis. 
+
+
 
 
 There is a statement summarizing four major changes to the school district analysis after reading and math scores have been replaced (5 pt).
