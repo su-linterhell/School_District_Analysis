@@ -30,5 +30,8 @@ With the data for 9th grade student's reading & math scores at Thomas High Schoo
 Thomas High School Metrics Before Cleaning
 ![Thomas_Data_before](Resources/Thomas_Data_before.png)
 
+Thomas High SChool Metrics After Cleaning 
+![updated_thomas_metrics](Resources/updated_thomas_metrics.png)
+
 
 There is a statement summarizing four major changes to the school district analysis after reading and math scores have been replaced (5 pt).
