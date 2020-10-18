@@ -42,6 +42,11 @@ Since 9th grade students at Thomas High School had academic dishonesty for their
 
 After cleaning the Thomas High School data we see a big difference between the % passing scores. This is because we are running these analysis on a smaller number of students after excluding the 9th grade students from our analysis. 
 
+#### Top 5 Schools
+![top5_schools](Resources/top5_schools.png)
+
+Cleaning the data has improved the overall % passing scores, moving Thomas High to a top performing school. 
+
 
 
 
