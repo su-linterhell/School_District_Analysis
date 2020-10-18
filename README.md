@@ -51,7 +51,7 @@ As shown by the Top 5 schools, the top performing schools were all Charter Schoo
 
 #### Bottom 5 Schools
 ![bottom5_schools](Resources/bottom5_schools.png)
-The top 5 bottom schools are all district schools. 
+The top 5 bottom schools are all district schools. The budget for the top and bottom 5 school really varies, with a lot of the top 5 schools having a smaller budget than the bottom 5 schools. Existing budgets may not describe test scores. However, there could be a difference in how charter and district schools are ran which impacts test scores. 
 
 
 
