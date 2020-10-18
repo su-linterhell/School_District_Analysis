@@ -23,8 +23,7 @@ With the data for 9th grade student's reading & math scores at Thomas High Schoo
   * The average reading score for each grade level from each school - The total average reading score was impacted 
   * The scores by school spending per student, by school size, and by school type - This chart displays the spending per student and their grade scores to see if there's any trends there. This is impacted by the inaccurate data. 
 
-## Summary
-
+## Summary 
 ### Key Differences After Cleaning our Data 
 
 #### Cleaned Student_Data_df
@@ -46,6 +45,13 @@ After cleaning the Thomas High School data we see a big difference between the %
 ![top5_schools](Resources/top5_schools.png)
 
 Cleaning the data has improved the overall % passing scores, moving Thomas High to a top performing school. 
+
+### Overall Summary 
+As shown by the Top 5 schools, the top performing schools were all Charter Schools. If we look at the bottom 5 schools we see the exact opposite:
+
+#### Bottom 5 Schools
+![bottom5_schools](Resources/bottom5_schools.png)
+The top 5 bottom schools are all district schools. 
 
 
 
