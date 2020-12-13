@@ -1,5 +1,5 @@
 # School_District_Analysis
-Analyzing testing scores for schools within a district to uncover trends. 
+Analyzing testing scores within a school district, using Python and Pandas. 
 
 ## Overview of the school district analysis
 Working with the data scientists for school district, this analysis dives into the standardized test schools and allocated school budgets to showcase trends in school performance. These trends will help the superintendent make informed decisions around school budget allotments. 
